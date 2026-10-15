@@ -10,6 +10,8 @@
 ## Overview
 MADAR combines drone imagery, computer vision, vehicle tracking, and an operator dashboard to help event teams monitor parking areas and improve the visitor experience. It explores how aerial data can support vehicle location, parking-rule monitoring, and congestion management.
 
+[🚀 Live Dashboard Demo](https://shahadalgadah.github.io/MADAR-AI-Smart-Parking/dashboard/MADAR_Dashboard.html)
+
 ## Key Features
 - **Find My Car:** Locate a vehicle using its license plate and provide navigation assistance.
 - **Smart Navigation:** Guide visitors toward their vehicle.
