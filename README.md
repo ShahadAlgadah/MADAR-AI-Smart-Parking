@@ -76,7 +76,7 @@ MADAR-AI-Smart-Parking/
 Datasets for the prototype include **VisDrone** aerial vehicle images and license-plate image datasets. For large files, publish accessible cloud links here rather than committing gigabytes to Git:
 
 - **Datasets:** [Google Drive folder — add sharing link](ADD_DATASETS_LINK_HERE)
-- **Trained models:** [Google Drive folder — add sharing link](ADD_MODELS_LINK_HERE)
+- **Trained models:** [MADAR Models – Google Drive](https://drive.google.com/drive/folders/1ofM27k1upHCMFaNxc2yG5xq_cnwK4eX2?usp=sharing)
 - **Evaluation notebooks:** [Google Drive folder — add sharing link](ADD_NOTEBOOKS_LINK_HERE)
 
 Check the terms of use and redistribution rights of each third-party dataset and pretrained model before republishing its files.
@@ -100,5 +100,6 @@ The repository currently documents multiple prototype components. Once source co
 ## Team
 Developed as part of the Autonomous Drone Systems Bootcamp project by the MADAR team.
 
-## Presentation
-[MADAR Expo presentation (Google Drive — add sharing link)](ADD_PRESENTATION_LINK_HERE). The original PowerPoint is large, so linking it avoids the GitHub browser upload limit.
+## Project Presentation
+
+[📊 View MADAR Expo Presentation](https://docs.google.com/presentation/d/1Xo5K68q6CPtzN0iNNDevceMTPHsXKNw/edit?usp=sharing)
