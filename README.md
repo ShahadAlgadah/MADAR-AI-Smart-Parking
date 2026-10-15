@@ -102,4 +102,4 @@ Developed as part of the Autonomous Drone Systems Bootcamp project by the MADAR 
 
 ## Project Presentation
 
-[📊 View MADAR Expo Presentation](https://docs.google.com/presentation/d/1Xo5K68q6CPtzN0iNNDevceMTPHsXKNw/edit?usp=sharing)
+[📊 View MADAR Expo Presentation](https://docs.google.com/presentation/d/1Xo5K68q6CPtzN0iNNDevceMTPHsXKNwW/edit?usp=sharing&ouid=100071248718851677963&rtpof=true&sd=true)
