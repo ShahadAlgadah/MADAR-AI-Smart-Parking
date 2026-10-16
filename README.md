@@ -63,42 +63,37 @@ Results reported in the project presentation:
 ```text
 MADAR-AI-Smart-Parking/
 ├── README.md
-├── .gitignore
-├── datasets/            # Dataset sources / links (not huge archives)
-├── models/              # Small configs, scripts, links to model weights
-├── notebooks/           # Training and evaluation notebooks
-├── dashboard/           # Dashboard source code, if shared
-├── docs/                # Presentation and project documentation
-└── assets/              # Screenshots and short demo media
+├── dashboard/
+│   ├── MADAR_Dashboard.html
+│   └── README.md
+└── notebooks/
+    ├── MADAR_All_Models_Evaluation .ipynb
+    └── README.md
 ```
 
 ## Datasets and Pretrained Weights
 Datasets for the prototype include **VisDrone** aerial vehicle images and license-plate image datasets. For large files, publish accessible cloud links here rather than committing gigabytes to Git:
 
-- **Datasets:** [Google Drive folder — add sharing link](ADD_DATASETS_LINK_HERE)
+- **Datasets:** VisDrone and CARPK for vehicle detection, plus license-plate image datasets. Original dataset download links will be documented once their sources are verified.
 - **Trained models:** [MADAR Models – Google Drive](https://drive.google.com/drive/folders/1ofM27k1upHCMFaNxc2yG5xq_cnwK4eX2?usp=sharing)
-- **Evaluation notebooks:** [Google Drive folder — add sharing link](ADD_NOTEBOOKS_LINK_HERE)
+- **Evaluation notebook:** [MADAR All Models Evaluation](notebooks/MADAR_All_Models_Evaluation%20.ipynb)
 
 Check the terms of use and redistribution rights of each third-party dataset and pretrained model before republishing its files.
 
-## Project Demo
-Add a screenshot of the dashboard in `assets/dashboard.png`, then uncomment this line:
-
-<!-- ![MADAR operator dashboard](assets/dashboard.png) -->
-
-A demo video or walkthrough can also be linked here.
-
-## Running the Project
-The repository currently documents multiple prototype components. Once source code and dependencies are uploaded, add component-specific installation and run instructions under `dashboard/` and `models/`. The presentation and evaluation notebook alone are **not** a fully runnable end-to-end application.
-
-## Future Work
-- Integrate drone flight simulation and the computer vision pipeline.
-- Evaluate the end-to-end workflow at a larger scale.
-- Improve robustness under different lighting, viewpoints, and operational conditions.
-- Explore additional deployment scenarios beyond Expo 2030.
 
 ## Team
-Developed as part of the Autonomous Drone Systems Bootcamp project by the MADAR team.
+
+**Autonomous Drone Systems Bootcamp**  
+Tuwaiq Academy × Misk Skills
+
+**MADAR Team Members:**
+- Shahad Algadah
+- Nuha Alrubayyi
+- Mariam Alessi
+- Faisal Alkhater
+- Mariyah AlMoaili
+
+MADAR was developed as part of the Autonomous Drone Systems Bootcamp, focusing on AI-powered drone solutions for smart parking management at large-scale events, including Expo 2030.
 
 ## Project Presentation
 
