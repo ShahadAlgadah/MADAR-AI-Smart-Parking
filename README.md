@@ -32,6 +32,10 @@ MADAR combines drone imagery, computer vision, vehicle tracking, and an operator
 | AI training and evaluation | Python, Google Colab |
 | User experience | Operator dashboard and Find My Car mobile UI prototype |
 
+### Vehicle Tracking
+
+- **[ByteTrack](https://github.com/FoundationVision/ByteTrack)** — Used as an off-the-shelf tracking algorithm to associate vehicle detections across video frames and maintain vehicle IDs. The MADAR team did not train or fine-tune the tracker.
+
 ## Computer Vision Pipeline
 ```text
 Drone video / aerial imagery
