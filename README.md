@@ -72,7 +72,7 @@ MADAR-AI-Smart-Parking/
 ```
 
 ## Datasets and Pretrained Weights
-Datasets for the prototype include **VisDrone** aerial vehicle images and license-plate image datasets. For large files, publish accessible cloud links here rather than committing gigabytes to Git:
+Datasets for the prototype include **VisDrone** aerial vehicle images and license-plate image datasets.
 
 - ### Datasets Used
 
