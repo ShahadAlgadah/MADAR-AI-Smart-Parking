@@ -65,10 +65,17 @@ MADAR-AI-Smart-Parking/
 ├── README.md
 ├── dashboard/
 │   ├── MADAR_Dashboard.html
-│   └── README.md
-└── notebooks/
-    ├── MADAR_All_Models_Evaluation .ipynb
-    └── README.md
+├── models/
+│   ├── License_Plate_Detector/
+│   │   └── License_Plate_Detector/
+│   │       └── MADAR_license_plate_final.pt
+│   ├── OCR/
+│   │   └── license_plate_ocr_inference/
+│   │       ├── inference.json
+│   │       ├── inference.pdiparams
+│   │       └── inference.yml
+    └── Vehicle_Detector/
+      └── MADAR_vehicle_final.pt
 ```
 
 ## Datasets and Pretrained Weights
