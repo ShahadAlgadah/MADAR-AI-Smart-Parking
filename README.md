@@ -64,18 +64,18 @@ Results reported in the project presentation:
 MADAR-AI-Smart-Parking/
 ├── README.md
 ├── dashboard/
-│   ├── MADAR_Dashboard.html
-├── models/
-│   ├── License_Plate_Detector/
-│   │   └── License_Plate_Detector/
-│   │       └── MADAR_license_plate_final.pt
-│   ├── OCR/
-│   │   └── license_plate_ocr_inference/
-│   │       ├── inference.json
-│   │       ├── inference.pdiparams
-│   │       └── inference.yml
+│   └── MADAR_Dashboard.html
+└── models/
+    ├── License_Plate_Detector/
+    │   └── License_Plate_Detector/
+    │       └── MADAR_license_plate_final.pt
+    ├── OCR/
+    │   └── license_plate_ocr_inference/
+    │       ├── inference.json
+    │       ├── inference.pdiparams
+    │       └── inference.yml
     └── Vehicle_Detector/
-      └── MADAR_vehicle_final.pt
+        └── MADAR_vehicle_final.pt
 ```
 
 ## Datasets and Pretrained Weights
@@ -87,9 +87,7 @@ The following datasets were used to support vehicle and license plate detection 
 
 - **[VisDrone Dataset](https://github.com/VisDrone/VisDrone-Dataset)** — Aerial imagery for vehicle detection using YOLO.
 - **[License Plate Project – Roboflow](https://universe.roboflow.com/test-vaxvp/license-plate-project-adaad)** — License plate image dataset for training the license plate detection model.
-- **CARPK Dataset** — Parking lot imagery used for vehicle detector fine-tuning.
-- **Trained models:** [MADAR Models – Google Drive](https://drive.google.com/drive/folders/1ofM27k1upHCMFaNxc2yG5xq_cnwK4eX2?usp=sharing)
-- **Evaluation notebook:** [MADAR All Models Evaluation](notebooks/MADAR_All_Models_Evaluation%20.ipynb)
+- **[CARPK Dataset](https://www.kaggle.com/datasets/huynhphucthinh/carpk-yolo)** — Parking lot imagery used for vehicle detector fine-tuning.
 
 Check the terms of use and redistribution rights of each third-party dataset and pretrained model before republishing its files.
 
@@ -102,7 +100,7 @@ Tuwaiq Academy × Misk Skills
 **MADAR Team Members:**
 - Shahad Algadah
 - Nuha Alrubayyi
-- Mariam Alessi
+- Maryam Alessi
 - Faisal Alkhater
 - Mariyah AlMoaili
 
