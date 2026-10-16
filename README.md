@@ -74,7 +74,13 @@ MADAR-AI-Smart-Parking/
 ## Datasets and Pretrained Weights
 Datasets for the prototype include **VisDrone** aerial vehicle images and license-plate image datasets. For large files, publish accessible cloud links here rather than committing gigabytes to Git:
 
-- **Datasets:** VisDrone and CARPK for vehicle detection, plus license-plate image datasets. Original dataset download links will be documented once their sources are verified.
+- ### Datasets Used
+
+The following datasets were used to support vehicle and license plate detection in MADAR:
+
+- **[VisDrone Dataset](https://github.com/VisDrone/VisDrone-Dataset)** — Aerial imagery for vehicle detection using YOLO.
+- **[License Plate Project – Roboflow](https://universe.roboflow.com/test-vaxvp/license-plate-project-adaad)** — License plate image dataset for training the license plate detection model.
+- **CARPK Dataset** — Parking lot imagery used for vehicle detector fine-tuning.
 - **Trained models:** [MADAR Models – Google Drive](https://drive.google.com/drive/folders/1ofM27k1upHCMFaNxc2yG5xq_cnwK4eX2?usp=sharing)
 - **Evaluation notebook:** [MADAR All Models Evaluation](notebooks/MADAR_All_Models_Evaluation%20.ipynb)
 
